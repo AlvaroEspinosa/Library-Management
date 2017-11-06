@@ -1,0 +1,42 @@
+-------------------------------- Ficha Persona --------------------------------
+
+
+DNI: 045987455-X
+
+
+Nombre: Alvaro Espinosa Marlasca
+
+
+codigo de Socio: 10000-A
+
+
+Categoria: Alumno
+
+
+Fecha de Prestamo: 5/06/12
+
+
+Fecha de Devolucion:8/06/12
+
+
+-------------------------------------------------------------------------------
+
+
+-------------------------------- Ficha Libro --------------------------------
+
+
+Titulo: Señores del Olimpo
+
+
+Codigo de Control: 1004068
+
+
+ISBN: 1003063
+
+
+Autores: Javier Negrete
+
+
+
+
+-------------------------------------------------------------------------------
